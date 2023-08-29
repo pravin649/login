@@ -1,0 +1,61 @@
+#first_div{
+    border: 1px solid yellow;
+    height: 610px;
+    background-color: yellow;
+    margin-top: 0px;
+}
+
+#second_div{
+    border-radius: 10px;
+    height: 350px;
+    width: 380px;
+    margin-top: 120px;
+    margin-left: 480px;
+    background-color:blanchedalmond;
+    box-shadow: 1px 1px 15px 15px rgb(75, 26, 26);
+}
+
+#third_div{
+    text-align: center;
+    padding: 5px 0px 0px 0px;
+}
+
+h1{
+    font-style: italic;
+    font-weight: bolder;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+#name_div{
+    padding: 30px;
+}
+
+input{
+    background-color: whitesmoke;
+}
+
+#button_div{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin-top: 60px;
+}
+
+.button{
+    text-decoration: none;
+}
+
+#last_div{
+    text-decoration: none;
+    margin-top: 30px;
+}
+
+a{
+    text-decoration: none;
+}
